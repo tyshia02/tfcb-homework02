@@ -17,4 +17,4 @@ Below are some cool pictures of different species of ants! ![Rhytidoponera metal
 
 <h3>Tables</h3>
 
-Click here to see the collected [survey data](https://github.com/tyshia02/tfcb-homework02/blob/main/Survey/Modified%20Survey%20Data.tsv).
+Click here to see the collected [survey data](https://github.com/tyshia02/tfcb-homework02/tree/main/Survey).
